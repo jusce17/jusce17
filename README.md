@@ -11,6 +11,7 @@ I can build and deploy your awesome digital in no time using:
 - Django Web Framework
 - Last but not least, I use **SCRUM**, so you will be kept in the loop while the magic happens 😄
 
+📫 You can find me [here](https://www.linkedin.com/in/eden-constantino/) !!!
 
 <!--
 **jusce17/jusce17** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
