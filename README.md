@@ -1,5 +1,5 @@
 ### <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="30px"> Hi there!
-### 🔭 I am Eden and - Machine Learning Engineer at DisruptionLab
+### 🔭 Hey there, it is Eden  - Machine Learning Engineer at DisruptionLab
 Currently focused on building Natural Language Processing solutions to help local banks improve their relationship with customers and prospects.
 
 ### 💼 Also looking for job opportunities in Software Development and Conversation Design
